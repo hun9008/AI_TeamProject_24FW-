@@ -1,2 +1,2 @@
-- ImageNet train하도록 수정 (241102)
-- Pickle 등으로 data 공유 가능한지 확인 중
+- .pkl file로 ImageNet 옮겨봄
+- 다른 환경에서도 코드대로 잘 읽혀서 train되는지 확인 필요
