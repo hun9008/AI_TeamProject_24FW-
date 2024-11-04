@@ -4,11 +4,9 @@ Hi there.
 
 
 ## Citation
-- ImageNet Data (https://image-net.org)
+- CIFAR-10 Dataset (https://www.cs.toronto.edu/~kriz/cifar.html)
 ```
-Olga Russakovsky*, Jia Deng*, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, 
-Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg and Li Fei-Fei. (* = equal contribution)
-ImageNet Large Scale Visual Recognition Challenge. arXiv:1409.0575, 2014.
+Krizhevsky, Alex. (2012). Learning Multiple Layers of Features from Tiny Images. University of Toronto. 
 ```
 - FLatten Transformer (https://github.com/LeapLabTHU/FLatten-Transformer)
 ```
