@@ -1,7 +1,0 @@
-- pickle로 ImageNet 사용하기엔 어려워 보임 (압축 X, 기타 등등 용도가 조금 달랐음)
-  - Tiny ImageNet (https://www.kaggle.com/c/tiny-imagenet/data)
-    - 200 classes, 500 images per class, 64x64 color img
-  - ImageNette (https://github.com/fastai/imagenette)
-    - ImageNet에서 제일 쉬운 class 10개
-    - dimension이 original/320px/160px 버젼으로 있음
-    - noisy label도 존재
