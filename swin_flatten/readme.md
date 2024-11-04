@@ -1,3 +1,3 @@
 - pickle로 ImageNet 사용하기엔 어려워 보임 (압축 X, 기타 등등 용도가 조금 달랐음)
-  - Tiny ImageNet (https://www.kaggle.com/c/tiny-imagenet/data)이나
+  - Tiny ImageNet (https://www.kaggle.com/c/tiny-imagenet/data) 이나
   - ImageNette (https://github.com/fastai/imagenette) 같은 ImageNet의 subset 찾아보는 중    
