@@ -4,9 +4,13 @@ Hi there.
 
 
 ## Citation
-- CIFAR-10 Dataset (https://www.cs.toronto.edu/~kriz/cifar.html)
+- Oxford-IIIT Pet Dataset (https://www.robots.ox.ac.uk/~vgg/data/pets/)
+  - Creative Commons Attribution-ShareAlike 4.0 International License.
+  - The copyright remains with the original owners of the images.
 ```
-Krizhevsky, Alex. (2012). Learning Multiple Layers of Features from Tiny Images. University of Toronto. 
+Cats and Dogs
+O. M. Parkhi, A. Vedaldi, A. Zisserman, C. V. Jawahar
+IEEE Conference on Computer Vision and Pattern Recognition, 2012
 ```
 - FLatten Transformer (https://github.com/LeapLabTHU/FLatten-Transformer)
 ```
