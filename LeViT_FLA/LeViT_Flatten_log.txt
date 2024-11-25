@@ -1,0 +1,299 @@
+Epoch 1/50
+Training: 100%|██████████| 161/161 [00:31<00:00,  5.16it/s]
+Train Loss: 3.7695, Train Accuracy: 2.62%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.13it/s]
+Validation Loss: 3.7813, Validation Accuracy: 2.90%
+
+Epoch 2/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 3.7508, Train Accuracy: 2.37%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.18it/s]
+Validation Loss: 3.8419, Validation Accuracy: 2.45%
+
+Epoch 3/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.26it/s]
+Train Loss: 3.7332, Train Accuracy: 3.07%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.19it/s]
+Validation Loss: 3.6632, Validation Accuracy: 3.72%
+
+Epoch 4/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.28it/s]
+Train Loss: 3.6973, Train Accuracy: 3.99%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.25it/s]
+Validation Loss: 3.9583, Validation Accuracy: 4.72%
+
+Epoch 5/50
+Training: 100%|██████████| 161/161 [00:31<00:00,  5.18it/s]
+Train Loss: 3.5921, Train Accuracy: 5.70%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.28it/s]
+Validation Loss: 3.6551, Validation Accuracy: 6.99%
+
+Epoch 6/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.21it/s]
+Train Loss: 3.5000, Train Accuracy: 7.29%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.12it/s]
+Validation Loss: 3.5277, Validation Accuracy: 7.53%
+
+Epoch 7/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.27it/s]
+Train Loss: 3.3863, Train Accuracy: 10.05%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.16it/s]
+Validation Loss: 3.3700, Validation Accuracy: 8.89%
+
+Epoch 8/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.27it/s]
+Train Loss: 3.2211, Train Accuracy: 11.37%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.15it/s]
+Validation Loss: 3.3573, Validation Accuracy: 11.34%
+
+Epoch 9/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.28it/s]
+Train Loss: 3.0926, Train Accuracy: 15.44%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.18it/s]
+Validation Loss: 3.3372, Validation Accuracy: 11.62%
+
+Epoch 10/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.31it/s]
+Train Loss: 2.9458, Train Accuracy: 17.22%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.24it/s]
+Validation Loss: 4.2206, Validation Accuracy: 11.62%
+
+Epoch 11/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 2.8004, Train Accuracy: 19.67%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.30it/s]
+Validation Loss: 3.3890, Validation Accuracy: 13.16%
+
+Epoch 12/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.27it/s]
+Train Loss: 2.5446, Train Accuracy: 26.13%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.32it/s]
+Validation Loss: 3.4360, Validation Accuracy: 13.25%
+
+Epoch 13/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 2.2587, Train Accuracy: 33.86%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.25it/s]
+Validation Loss: 3.5277, Validation Accuracy: 15.43%
+
+Epoch 14/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.31it/s]
+Train Loss: 1.8904, Train Accuracy: 42.59%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.25it/s]
+Validation Loss: 4.1527, Validation Accuracy: 13.52%
+
+Epoch 15/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.29it/s]
+Train Loss: 1.5672, Train Accuracy: 53.23%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.27it/s]
+Validation Loss: 4.1226, Validation Accuracy: 13.61%
+
+Epoch 16/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 1.3078, Train Accuracy: 61.39%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.21it/s]
+Validation Loss: 4.1342, Validation Accuracy: 13.79%
+
+Epoch 17/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.30it/s]
+Train Loss: 0.9846, Train Accuracy: 70.98%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.20it/s]
+Validation Loss: 4.8970, Validation Accuracy: 13.97%
+
+Epoch 18/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 0.8210, Train Accuracy: 76.30%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.30it/s]
+Validation Loss: 5.0433, Validation Accuracy: 12.70%
+
+Epoch 19/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.30it/s]
+Train Loss: 0.8014, Train Accuracy: 76.24%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.29it/s]
+Validation Loss: 5.0760, Validation Accuracy: 12.25%
+
+Epoch 20/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.29it/s]
+Train Loss: 0.6157, Train Accuracy: 81.78%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.30it/s]
+Validation Loss: 5.1850, Validation Accuracy: 14.61%
+
+Epoch 21/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.36it/s]
+Train Loss: 0.4468, Train Accuracy: 86.43%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.33it/s]
+Validation Loss: 5.4120, Validation Accuracy: 14.52%
+
+Epoch 22/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 0.9305, Train Accuracy: 73.81%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.26it/s]
+Validation Loss: 5.1836, Validation Accuracy: 13.52%
+
+Epoch 23/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.30it/s]
+Train Loss: 0.7602, Train Accuracy: 78.99%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.15it/s]
+Validation Loss: 5.4979, Validation Accuracy: 13.25%
+
+Epoch 24/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 0.4534, Train Accuracy: 87.33%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.35it/s]
+Validation Loss: 5.8257, Validation Accuracy: 13.61%
+
+Epoch 25/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.35it/s]
+Train Loss: 0.6985, Train Accuracy: 80.37%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.38it/s]
+Validation Loss: 5.8793, Validation Accuracy: 12.52%
+
+Epoch 26/50
+Training: 100%|██████████| 161/161 [00:29<00:00,  5.37it/s]
+Train Loss: 0.4421, Train Accuracy: 87.17%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.17it/s]
+Validation Loss: 5.7488, Validation Accuracy: 13.43%
+
+Epoch 27/50
+Training: 100%|██████████| 161/161 [00:29<00:00,  5.40it/s]
+Train Loss: 0.3534, Train Accuracy: 89.48%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.10it/s]
+Validation Loss: 5.9688, Validation Accuracy: 14.07%
+
+Epoch 28/50
+Training: 100%|██████████| 161/161 [00:29<00:00,  5.38it/s]
+Train Loss: 0.9345, Train Accuracy: 74.53%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.15it/s]
+Validation Loss: 5.8011, Validation Accuracy: 12.79%
+
+Epoch 29/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.35it/s]
+Train Loss: 0.3713, Train Accuracy: 89.21%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.19it/s]
+Validation Loss: 5.3906, Validation Accuracy: 14.61%
+
+Epoch 30/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 0.2609, Train Accuracy: 92.52%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.16it/s]
+Validation Loss: 5.5347, Validation Accuracy: 13.97%
+
+Epoch 31/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.36it/s]
+Train Loss: 0.2857, Train Accuracy: 91.62%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.24it/s]
+Validation Loss: 6.0633, Validation Accuracy: 12.43%
+
+Epoch 32/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.33it/s]
+Train Loss: 0.7684, Train Accuracy: 78.13%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.17it/s]
+Validation Loss: 5.7166, Validation Accuracy: 12.70%
+
+Epoch 33/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 0.3765, Train Accuracy: 88.51%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.32it/s]
+Validation Loss: 5.8756, Validation Accuracy: 14.25%
+
+Epoch 34/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 0.2207, Train Accuracy: 93.41%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.22it/s]
+Validation Loss: 5.8433, Validation Accuracy: 12.25%
+
+Epoch 35/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.30it/s]
+Train Loss: 0.1944, Train Accuracy: 94.54%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.18it/s]
+Validation Loss: 5.9761, Validation Accuracy: 13.16%
+
+Epoch 36/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.28it/s]
+Train Loss: 0.2621, Train Accuracy: 91.84%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.28it/s]
+Validation Loss: 6.3610, Validation Accuracy: 11.80%
+
+Epoch 37/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.28it/s]
+Train Loss: 0.3437, Train Accuracy: 89.07%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.08it/s]
+Validation Loss: 6.5266, Validation Accuracy: 13.25%
+
+Epoch 38/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.31it/s]
+Train Loss: 0.3661, Train Accuracy: 88.78%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.19it/s]
+Validation Loss: 6.2676, Validation Accuracy: 15.79%
+
+Epoch 39/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.35it/s]
+Train Loss: 0.3499, Train Accuracy: 88.57%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.12it/s]
+Validation Loss: 6.2204, Validation Accuracy: 14.43%
+
+Epoch 40/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.34it/s]
+Train Loss: 0.2943, Train Accuracy: 90.77%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.24it/s]
+Validation Loss: 6.2981, Validation Accuracy: 13.88%
+
+Epoch 41/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.26it/s]
+Train Loss: 0.2627, Train Accuracy: 91.82%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.14it/s]
+Validation Loss: 6.5750, Validation Accuracy: 12.25%
+
+Epoch 42/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.33it/s]
+Train Loss: 0.3245, Train Accuracy: 90.26%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.23it/s]
+Validation Loss: 6.5787, Validation Accuracy: 11.80%
+
+Epoch 43/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.29it/s]
+Train Loss: 0.3999, Train Accuracy: 87.81%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.33it/s]
+Validation Loss: 6.2382, Validation Accuracy: 13.34%
+
+Epoch 44/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.28it/s]
+Train Loss: 0.2413, Train Accuracy: 92.48%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.23it/s]
+Validation Loss: 6.3893, Validation Accuracy: 13.70%
+
+Epoch 45/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.31it/s]
+Train Loss: 0.1539, Train Accuracy: 95.06%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.23it/s]
+Validation Loss: 6.1078, Validation Accuracy: 12.70%
+
+Epoch 46/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 0.0958, Train Accuracy: 96.83%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.34it/s]
+Validation Loss: 6.2902, Validation Accuracy: 15.15%
+
+Epoch 47/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.30it/s]
+Train Loss: 0.0898, Train Accuracy: 97.34%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.04it/s]
+Validation Loss: 6.6272, Validation Accuracy: 13.88%
+
+Epoch 48/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.31it/s]
+Train Loss: 0.1315, Train Accuracy: 95.78%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.04it/s]
+Validation Loss: 7.0046, Validation Accuracy: 13.61%
+
+Epoch 49/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.32it/s]
+Train Loss: 0.2636, Train Accuracy: 91.85%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.07it/s]
+Validation Loss: 7.3296, Validation Accuracy: 12.52%
+
+Epoch 50/50
+Training: 100%|██████████| 161/161 [00:30<00:00,  5.33it/s]
+Train Loss: 0.6981, Train Accuracy: 80.00%
+Validation: 100%|██████████| 35/35 [00:05<00:00,  6.08it/s]
+Validation Loss: 6.5554, Validation Accuracy: 12.16%
