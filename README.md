@@ -4,29 +4,17 @@ Hi there.
 
 
 ## Citation
-- Oxford-IIIT Pet Dataset (https://www.robots.ox.ac.uk/~vgg/data/pets/)
-  - Creative Commons Attribution-ShareAlike 4.0 International License.
-  - The copyright remains with the original owners of the images.
-```
-Cats and Dogs
-O. M. Parkhi, A. Vedaldi, A. Zisserman, C. V. Jawahar
-IEEE Conference on Computer Vision and Pattern Recognition, 2012
-```
+### Datasets
+- Oxford-IIIT Pet Dataset
+  - Parkhi et al., "Cats and dogs" 2012 IEEE Conference on Computer Vision and Pattern Recognition)
+- CIFAR-10, CIFAR-100 Dataset
+  - (A. Krizhevsky, "Learning Multiple Layers of Features from Tiny Images", 2009)
+- Caltech 256 Dataset
+  - (Griffin et al., (2022). Caltech 256 (1.0) [Data set]. CaltechDATA. https://doi.org/10.22002/D1.20087)
+
+### Models and its codes
+- LeViT (https://github.com/facebookresearch/LeViT)
 - FLatten Transformer (https://github.com/LeapLabTHU/FLatten-Transformer)
-```
-@InProceedings{han2023flatten,
-  title={FLatten Transformer: Vision Transformer using Focused Linear Attention},
-  author={Han, Dongchen and Pan, Xuran and Han, Yizeng and Song, Shiji and Huang, Gao},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2023}
-}
-```
 - Swin Transformer (https://github.com/microsoft/Swin-Transformer)
-```
-@inproceedings{liu2021Swin,
-  title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
-  author={Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2021}
-}
-```
+- Flash Linear Attention (https://github.com/sustcsonglin/flash-linear-attention)
+- Gated Linear Attention (https://github.com/berlino/gated_linear_attention)
