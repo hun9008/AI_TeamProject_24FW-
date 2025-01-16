@@ -5,9 +5,9 @@ from torchvision.transforms import Compose, ToTensor, ToPILImage, Normalize
 from sklearn.decomposition import PCA
 
 """
-OpenCV는 기본으로 BGR format이다. RGB로 바꿔준 뒤에 tensor로 처리해야함.
-    input_image = cv2.cvtColor(input_image, cv2.COLOR_BGR2RGB)
-    input_tensor = ToTensor()(input_image)
+그대로 transforms에 집어넣어서 사용하시면 됩니다.
+Macenko Normalization을 먼저 다 수행한 뒤에 Tensor로 변경하여
+이후 다른 처리들 (flip, noise, blur, ...)을 진행하세요.
 """
 
 
