@@ -1,3 +1,4 @@
 CIFAR10
 data
 .ipynb_checkpoints
+./TinyFusion/HoViT.py
